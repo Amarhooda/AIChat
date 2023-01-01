@@ -75,7 +75,7 @@ const handleSubmit = async (e) => {
 
     loader(messageDiv)
 
-    const response = await fetch("https://aichat-7kcv.onrender.com", {
+    const response = await fetch("https://aichat-df8z.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
